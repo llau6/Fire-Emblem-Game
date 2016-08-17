@@ -1,0 +1,22 @@
+Title: Fire Emblem Awakening
+Creater: Lily Lau
+
+Overview:
+This game emulates the classic Fire Emblem gaming strategy-- Suicide Running.
+You implement this strategy when the goal of the level is to defeat the
+commander. So, in this GBA version, you simply avoid all of the archers
+and then attack the final boss (DEFEAT COMMANDER). After doing this,
+you have cleared the level and won the game!
+
+Controls:
+Select (Backspace) button will return to the title screen.
+Start (Enter) button will start the game if you are on the title screen.
+Up button moves the player up.
+Down button moves the player down.
+Left button moeves the player left.
+Right button moves the player right.
+A (z) button will allow you to skip text and move on to the boss scene.
+
+Objective:
+Avoid the archers and fire.
+Attack the final boss.
